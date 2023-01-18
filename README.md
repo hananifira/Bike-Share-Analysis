@@ -1,5 +1,6 @@
 # Bike-Share-Analysis![cyclistic_cover](https://user-images.githubusercontent.com/88269271/213092997-5a06a224-222b-4ab6-91c3-5e006c3796b2.jpg)
-Note : you can download in here presentations slides and the coding with R
+Note : you can download presentations slides in here https://docs.google.com/presentation/d/1y_Jbh3Wk0yMSMq34lGYe8xYTYrok0rtV/edit#slide=id.p1
+
 
 Introduction
 
